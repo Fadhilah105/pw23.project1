@@ -113,7 +113,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(flowers.jpg);
+    background: url(img/flowers.jpg);
     background-size: cover;
     background-position: center;
 }
